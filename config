@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/gabrielksouza/headcount-control.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
